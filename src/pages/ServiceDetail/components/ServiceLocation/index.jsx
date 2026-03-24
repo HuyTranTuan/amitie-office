@@ -13,18 +13,22 @@ function ServiceLocation({ service }) {
   const sectionData =
     typeof location === "string"
       ? {
-          title: "",
-          address: "",
-          description: "",
-          image: "",
+          title: service?.title || "",
+          address: service?.address || "",
+          description: service?.desc || "",
+          image: service?.imgSrc || "",
         }
       : location;
+  console.log(sectionData);
 
   return (
     <section className={styles.wrapper}>
       <div className={`content-container ${styles.container}`}>
         <div className={styles.imageWrap}>
-          <img src={sectionData.image} alt={sectionData.title} />
+          <img
+            src={`${import.meta.env.BASE_URL}${sectionData.image}`}
+            alt={sectionData.title}
+          />
         </div>
         <div className={styles.content}>
           <h2 className={styles.title}>{sectionData.title}</h2>

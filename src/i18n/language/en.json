@@ -105,13 +105,25 @@
           "idealForValue": "SMEs, teams,\nagencies",
           "minimumTermLabel": "Minimum term",
           "minimumTermValue": "6 Months",
-          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices1.png"
         },
         "benefits": [
-          { "id": "b1", "icon": "handling", "label": "Reception and Mail Handling" },
+          {
+            "id": "b1",
+            "icon": "handling",
+            "label": "Reception and Mail Handling"
+          },
           { "id": "b2", "icon": "logo", "label": "Company Name Signage" },
-          { "id": "b3", "icon": "registration", "label": "Registered Business Address" },
-          { "id": "b4", "icon": "printing", "label": "Printing and Document Services" },
+          {
+            "id": "b3",
+            "icon": "registration",
+            "label": "Registered Business Address"
+          },
+          {
+            "id": "b4",
+            "icon": "printing",
+            "label": "Printing and Document Services"
+          },
           { "id": "b5", "icon": "meeting", "label": "Meeting Room Access" },
           { "id": "b6", "icon": "coworking", "label": "Coworking Day Passes" }
         ],
@@ -119,7 +131,7 @@
           "title": "Our Private Office Locations",
           "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
           "description": "Place your team in a central district with easy commuting, strong brand visibility, and immediate access to nearby business services.",
-          "image": "https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices1.png"
         },
         "pricing": [
           {
@@ -172,21 +184,37 @@
           "idealForValue": "Freelancers,\nstartups",
           "minimumTermLabel": "Minimum term",
           "minimumTermValue": "1 Month",
-          "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices2.png"
         },
         "benefits": [
-          { "id": "b1", "icon": "handling", "label": "Reception and Mail Handling" },
+          {
+            "id": "b1",
+            "icon": "handling",
+            "label": "Reception and Mail Handling"
+          },
           { "id": "b2", "icon": "logo", "label": "Logo Displayed" },
-          { "id": "b3", "icon": "registration", "label": "Business Registration" },
-          { "id": "b4", "icon": "printing", "label": "Document & Print Services" },
+          {
+            "id": "b3",
+            "icon": "registration",
+            "label": "Business Registration"
+          },
+          {
+            "id": "b4",
+            "icon": "printing",
+            "label": "Document & Print Services"
+          },
           { "id": "b5", "icon": "meeting", "label": "Free-hour Meeting Room" },
-          { "id": "b6", "icon": "coworking", "label": "Free-hour Coworking Space" }
+          {
+            "id": "b6",
+            "icon": "coworking",
+            "label": "Free-hour Coworking Space"
+          }
         ],
         "location": {
           "title": "Our Coworking Locations",
           "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
           "description": "Work from a central workspace with an energetic community and convenient access to cafes, transport, and business amenities.",
-          "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices2.png"
         },
         "pricing": [
           {
@@ -239,12 +267,20 @@
           "idealForValue": "Corporate events,\nworkshops",
           "minimumTermLabel": "Minimum term",
           "minimumTermValue": "By booking slot",
-          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices3.png"
         },
         "benefits": [
-          { "id": "b1", "icon": "handling", "label": "Event Reception and Check-in" },
+          {
+            "id": "b1",
+            "icon": "handling",
+            "label": "Event Reception and Check-in"
+          },
           { "id": "b2", "icon": "logo", "label": "Branding Display Available" },
-          { "id": "b3", "icon": "registration", "label": "Business Event Support" },
+          {
+            "id": "b3",
+            "icon": "registration",
+            "label": "Business Event Support"
+          },
           { "id": "b4", "icon": "printing", "label": "On-site Print Services" },
           { "id": "b5", "icon": "meeting", "label": "Flexible Meeting Setup" },
           { "id": "b6", "icon": "coworking", "label": "Networking Lounge Area" }
@@ -253,13 +289,13 @@
           "title": "Our Event Venue Location",
           "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
           "description": "Bring your event to a prime city-center venue that helps attendees connect easily and elevates your brand presence.",
-          "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices3.png"
         },
         "pricing": [
           {
             "id": "p1",
             "name": "Half Day",
-            "price": "5.000.000 VND/session",
+            "price": "5 Million VND",
             "features": [
               "Venue up to 40 guests",
               "Standard AV Setup",
@@ -269,7 +305,7 @@
           {
             "id": "p2",
             "name": "Full Day",
-            "price": "8.500.000 VND/session",
+            "price": "8.5 Million VND",
             "features": [
               "Venue up to 60 guests",
               "Advanced AV Setup",
@@ -279,7 +315,7 @@
           {
             "id": "p3",
             "name": "Premium",
-            "price": "12.000.000 VND/session",
+            "price": "12 Million VND",
             "features": [
               "Venue up to 80 guests",
               "Custom Setup Layout",
@@ -306,21 +342,37 @@
           "idealForValue": "New companies,\nstartups",
           "minimumTermLabel": "Minimum term",
           "minimumTermValue": "12 Months",
-          "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices4.png"
         },
         "benefits": [
-          { "id": "b1", "icon": "handling", "label": "Mail and Parcel Handling" },
+          {
+            "id": "b1",
+            "icon": "handling",
+            "label": "Mail and Parcel Handling"
+          },
           { "id": "b2", "icon": "logo", "label": "Logo Displayed" },
-          { "id": "b3", "icon": "registration", "label": "Business Registration" },
-          { "id": "b4", "icon": "printing", "label": "Document & Print Services" },
+          {
+            "id": "b3",
+            "icon": "registration",
+            "label": "Business Registration"
+          },
+          {
+            "id": "b4",
+            "icon": "printing",
+            "label": "Document & Print Services"
+          },
           { "id": "b5", "icon": "meeting", "label": "Free-hour Meeting Room" },
-          { "id": "b6", "icon": "coworking", "label": "Free-hour Coworking Space" }
+          {
+            "id": "b6",
+            "icon": "coworking",
+            "label": "Free-hour Coworking Space"
+          }
         ],
         "location": {
           "title": "Our Location for Virtual Offices",
           "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
           "description": "Prestigious address in central HCMC, ideal for businesses using virtual office services to build credibility and stay connected to key districts.",
-          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/assets/homeservices4.png"
         },
         "pricing": [
           {
@@ -372,4 +424,3 @@
     }
   }
 }
-

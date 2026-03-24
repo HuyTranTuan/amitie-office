@@ -19,7 +19,7 @@ function ServiceInfo({ service }) {
           idealForValue: "",
           minimumTermLabel: t("serviceDetail.labels.minimumTerm"),
           minimumTermValue: "",
-          image: "",
+          image: service?.imgSrc || "",
         }
       : info;
 
@@ -49,7 +49,10 @@ function ServiceInfo({ service }) {
           </div>
         </div>
         <div className={styles.imageWrap}>
-          <img src={sectionData.image} alt={sectionData.title} />
+          <img
+            src={`${import.meta.env.BASE_URL}${sectionData.image}`}
+            alt={sectionData.title}
+          />
         </div>
       </div>
     </section>

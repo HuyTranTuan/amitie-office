@@ -19,7 +19,6 @@ function ServiceLocation({ service }) {
           image: service?.imgSrc || "",
         }
       : location;
-  console.log(sectionData);
 
   return (
     <section className={styles.wrapper}>

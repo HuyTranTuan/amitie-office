@@ -1,0 +1,375 @@
+{
+  "common": {
+    "brand": "Amitie Office",
+    "nav": {
+      "home": "Home",
+      "locations": "Locations",
+      "services": "Services",
+      "blogs": "Blogs",
+      "login": "Login",
+      "bookTour": "Book a tour",
+      "close": "Close"
+    },
+    "quotation": {
+      "title": "Find your perfect workspace",
+      "text": "Whether you need a desk, a private office, or a full-floor setup, Amitie Office offers flexible workspaces designed to support your team’s growth.",
+      "button": "Get Quotation"
+    },
+    "home": {
+      "heroTitle": "Your next office, Ready Today",
+      "heroText": "Private offices, shared desks, meeting rooms - everything your team needs, all in one place.",
+      "contactUs": "CONTACT US",
+      "callHotline": "CALL HOTLINE",
+      "benefitTitle1": "Smart, fully-equipped offices",
+      "benefitText1": "Boost team performance with flexible workspaces designed for modern businesses. From high-speed internet, professional meeting rooms, and mail handling to on-demand admin support, Amitie Office provides everything you need to operate with ease and confidence.",
+      "benefitTitle2": "Tailored Solutions",
+      "benefitText2": "At Amitie Office, we understand every company has unique needs. That's why we offer scalable office solutions, short- or long-term packages, and customizable services to match your growth. From prestigious CBD locations to trusted business services and valuable connections, Amitie Office is designed to work for you.",
+      "ourLocations": "OUR LOCATIONS",
+      "comingSoon": "Coming soon",
+      "only": "Only",
+      "canOffer": "Can Offer",
+      "exploreLocation": "Explore this location"
+    },
+    "footer": {
+      "service": "Service",
+      "virtualOffices": "Virtual Offices",
+      "privateOffices": "Private Offices",
+      "meetingRooms": "Meeting Rooms",
+      "eventVenues": "Event Venues",
+      "otherServices": "Other Services",
+      "contactUs": "Contact us",
+      "contactToday": "Let's contact us today",
+      "hoursTitle": "Hours of operations",
+      "hoursWeekdays": "Monday - Friday | 8 a.m. - 6:00 p.m.",
+      "hoursSaturday": "Saturday | 8 a.m. - 12:00 p.m.",
+      "hoursClosed": "Closed on Sundays and Public holidays"
+    },
+    "location": {
+      "openingHours": "Opening Hours",
+      "hotline": "Hotline",
+      "services": "Services",
+      "choiceTitle": "What makes",
+      "choiceTitleHighlight": "THIS LOCATION",
+      "choiceTitleSuffix": "a smart choice?",
+      "choiceText": "Professional workspace with 11 floors of private and serviced offices.",
+      "choiceItem1": "Central but quiet",
+      "choiceItem2": "Fully serviced building",
+      "choiceItem3": "Professional and private",
+      "choiceItem4": "Easy to access",
+      "contactNow": "Contact Us Now",
+      "ourSpace": "Our Space",
+      "strengthTitle": "Strength",
+      "strengthLocationTitle": "Location:",
+      "strengthLocationText": "Located in a central area with convenient transportation to many districts. The neighborhood has many office buildings and nearby amenities.",
+      "strengthBuildingTitle": "Building:",
+      "strengthBuildingText": "High-security building with surveillance cameras, fire system, fingerprint access management, ample parking, and competitive pricing."
+    },
+    "services": {
+      "learnMore": "Learn more"
+    },
+    "notFound": {
+      "message": "Page not found.",
+      "goHome": "Go home"
+    },
+    "account": {
+      "title": "Account"
+    }
+  },
+  "embed": {
+    "title": "Embed",
+    "description": "This is the embed page."
+  },
+  "serviceDetail": {
+    "labels": {
+      "idealFor": "Ideal for",
+      "minimumTerm": "Minimum term"
+    },
+    "actions": {
+      "contactUs": "Contact us",
+      "getQuotation": "Get quotation",
+      "exploreLocation": "Explore this location"
+    },
+    "benefits": {
+      "title": "Benefits & Amenities"
+    },
+    "pricing": {
+      "subTitle": "Amitie Office",
+      "title": "Virtual Office Pricing Table"
+    },
+    "services": {
+      "1": {
+        "info": {
+          "title": "Private Offices",
+          "description": "Fully furnished private offices in premium locations, designed for focused teams that need flexibility, privacy, and business-ready infrastructure.",
+          "idealForLabel": "Ideal for",
+          "idealForValue": "SMEs, teams,\nagencies",
+          "minimumTermLabel": "Minimum term",
+          "minimumTermValue": "6 Months",
+          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Reception and Mail Handling" },
+          { "id": "b2", "icon": "logo", "label": "Company Name Signage" },
+          { "id": "b3", "icon": "registration", "label": "Registered Business Address" },
+          { "id": "b4", "icon": "printing", "label": "Printing and Document Services" },
+          { "id": "b5", "icon": "meeting", "label": "Meeting Room Access" },
+          { "id": "b6", "icon": "coworking", "label": "Coworking Day Passes" }
+        ],
+        "location": {
+          "title": "Our Private Office Locations",
+          "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
+          "description": "Place your team in a central district with easy commuting, strong brand visibility, and immediate access to nearby business services.",
+          "image": "https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Starter",
+            "price": "8.000.000 VND/month",
+            "features": [
+              "Private Office for up to 4",
+              "Reception & Mail Handling",
+              "Meeting Room: 4 Hours"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Growth",
+            "price": "12.000.000 VND/month",
+            "features": [
+              "Private Office for up to 8",
+              "Reception & Mail Handling",
+              "Meeting Room: 8 Hours"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Scale",
+            "price": "18.000.000 VND/month",
+            "features": [
+              "Private Office for up to 12",
+              "Company Name Signage",
+              "Meeting Room: 12 Hours"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Enterprise",
+            "price": "26.000.000 VND/month",
+            "features": [
+              "Private Office for up to 20",
+              "Dedicated Reception Support",
+              "Meeting Room: 20 Hours"
+            ]
+          }
+        ]
+      },
+      "2": {
+        "info": {
+          "title": "Coworking Spaces",
+          "description": "Flexible coworking workstations for freelancers, startups, and hybrid teams. Work comfortably with fast internet, great community, and meeting access.",
+          "idealForLabel": "Ideal for",
+          "idealForValue": "Freelancers,\nstartups",
+          "minimumTermLabel": "Minimum term",
+          "minimumTermValue": "1 Month",
+          "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Reception and Mail Handling" },
+          { "id": "b2", "icon": "logo", "label": "Logo Displayed" },
+          { "id": "b3", "icon": "registration", "label": "Business Registration" },
+          { "id": "b4", "icon": "printing", "label": "Document & Print Services" },
+          { "id": "b5", "icon": "meeting", "label": "Free-hour Meeting Room" },
+          { "id": "b6", "icon": "coworking", "label": "Free-hour Coworking Space" }
+        ],
+        "location": {
+          "title": "Our Coworking Locations",
+          "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
+          "description": "Work from a central workspace with an energetic community and convenient access to cafes, transport, and business amenities.",
+          "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Hot Desk",
+            "price": "2.500.000 VND/month",
+            "features": [
+              "Shared Workspace Access",
+              "Reception & Mail Handling",
+              "Meeting Room: 2 Hours"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Dedicated",
+            "price": "3.800.000 VND/month",
+            "features": [
+              "Dedicated Desk",
+              "Reception & Mail Handling",
+              "Meeting Room: 4 Hours"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Team",
+            "price": "6.200.000 VND/month",
+            "features": [
+              "Cluster Desk for Team",
+              "Company Name Sign",
+              "Meeting Room: 8 Hours"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Unlimited",
+            "price": "8.500.000 VND/month",
+            "features": [
+              "24/7 Workspace Access",
+              "Priority Support",
+              "Meeting Room: 12 Hours"
+            ]
+          }
+        ]
+      },
+      "3": {
+        "info": {
+          "title": "Event Venue",
+          "description": "Host workshops, launches, and corporate gatherings in a modern venue with professional support, flexible setup options, and premium location.",
+          "idealForLabel": "Ideal for",
+          "idealForValue": "Corporate events,\nworkshops",
+          "minimumTermLabel": "Minimum term",
+          "minimumTermValue": "By booking slot",
+          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Event Reception and Check-in" },
+          { "id": "b2", "icon": "logo", "label": "Branding Display Available" },
+          { "id": "b3", "icon": "registration", "label": "Business Event Support" },
+          { "id": "b4", "icon": "printing", "label": "On-site Print Services" },
+          { "id": "b5", "icon": "meeting", "label": "Flexible Meeting Setup" },
+          { "id": "b6", "icon": "coworking", "label": "Networking Lounge Area" }
+        ],
+        "location": {
+          "title": "Our Event Venue Location",
+          "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
+          "description": "Bring your event to a prime city-center venue that helps attendees connect easily and elevates your brand presence.",
+          "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Half Day",
+            "price": "5.000.000 VND/session",
+            "features": [
+              "Venue up to 40 guests",
+              "Standard AV Setup",
+              "Reception Desk Support"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Full Day",
+            "price": "8.500.000 VND/session",
+            "features": [
+              "Venue up to 60 guests",
+              "Advanced AV Setup",
+              "Reception & Check-in"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Premium",
+            "price": "12.000.000 VND/session",
+            "features": [
+              "Venue up to 80 guests",
+              "Custom Setup Layout",
+              "Dedicated Event Support"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Custom",
+            "price": "Contact us",
+            "features": [
+              "Large-scale setup",
+              "Flexible service options",
+              "Dedicated planning team"
+            ]
+          }
+        ]
+      },
+      "4": {
+        "info": {
+          "title": "Virtual Office",
+          "description": "A cost-effective workspace solution with no long-term commitment. Get a prime address, admin support, and flexible access to office facilities when needed.",
+          "idealForLabel": "Ideal for",
+          "idealForValue": "New companies,\nstartups",
+          "minimumTermLabel": "Minimum term",
+          "minimumTermValue": "12 Months",
+          "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Mail and Parcel Handling" },
+          { "id": "b2", "icon": "logo", "label": "Logo Displayed" },
+          { "id": "b3", "icon": "registration", "label": "Business Registration" },
+          { "id": "b4", "icon": "printing", "label": "Document & Print Services" },
+          { "id": "b5", "icon": "meeting", "label": "Free-hour Meeting Room" },
+          { "id": "b6", "icon": "coworking", "label": "Free-hour Coworking Space" }
+        ],
+        "location": {
+          "title": "Our Location for Virtual Offices",
+          "address": "100 Nguyen Thi Minh Khai, Xuan Hoa Ward, Ho Chi Minh City",
+          "description": "Prestigious address in central HCMC, ideal for businesses using virtual office services to build credibility and stay connected to key districts.",
+          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Silver",
+            "price": "890.000 VND/month",
+            "features": [
+              "Office Address & Legal Support",
+              "Reception & Mail Handling",
+              "Workstation + Meeting room with limit access"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Gold",
+            "price": "1.300.000 VND/month",
+            "features": [
+              "Office Address & Legal Support",
+              "Reception & Mail Handling",
+              "Workstation + Meeting room with limit access"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Platinum",
+            "price": "1.500.000 VND/month",
+            "features": [
+              "Office Address & Legal Support",
+              "Reception & Mail Handling",
+              "Company Name Sign",
+              "Workstation + Meeting room with more access",
+              "Printing, copying, scanning"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Diamond",
+            "price": "1.500.000 VND/month",
+            "features": [
+              "Office Address & Legal Support",
+              "Reception & Mail Handling",
+              "Company Name Sign",
+              "Workstation + Meeting room with more access",
+              "Printing, copying, scanning"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
+

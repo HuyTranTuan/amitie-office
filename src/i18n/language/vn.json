@@ -1,0 +1,375 @@
+{
+  "common": {
+    "brand": "Amitie Office",
+    "nav": {
+      "home": "Trang chu",
+      "locations": "Dia diem",
+      "services": "Dich vu",
+      "blogs": "Blog",
+      "login": "Dang nhap",
+      "bookTour": "Dat lich tham quan",
+      "close": "Dong"
+    },
+    "quotation": {
+      "title": "Tim khong gian lam viec phu hop",
+      "text": "Cho du ban can cho ngoi, van phong rieng hay nguyen tang, Amitie Office deu co giai phap linh hoat de ho tro su phat trien cua doi ngu ban.",
+      "button": "Nhan bao gia"
+    },
+    "home": {
+      "heroTitle": "Van phong tiep theo cua ban, san sang ngay hom nay",
+      "heroText": "Van phong rieng, cho ngoi chia se, phong hop - day du moi thu doi ngu cua ban can trong mot noi.",
+      "contactUs": "LIEN HE",
+      "callHotline": "GOI HOTLINE",
+      "benefitTitle1": "Van phong thong minh, day du tien nghi",
+      "benefitText1": "Nang cao hieu suat doi ngu voi khong gian linh hoat cho doanh nghiep hien dai. Tu internet toc do cao, phong hop chuyen nghiep, xu ly thu tin den ho tro hanh chinh theo yeu cau, Amitie Office cung cap day du de ban van hanh de dang va hieu qua.",
+      "benefitTitle2": "Giai phap theo nhu cau",
+      "benefitText2": "Tai Amitie Office, chung toi hieu moi doanh nghiep co nhu cau rieng. Vi vay, chung toi cung cap giai phap van phong mo rong linh hoat, goi ngan han hoac dai han va dich vu tuy chinh theo muc tieu tang truong cua ban.",
+      "ourLocations": "DIA DIEM CUA CHUNG TOI",
+      "comingSoon": "Sap ra mat",
+      "only": "Chi",
+      "canOffer": "moi co the mang den",
+      "exploreLocation": "Kham pha dia diem nay"
+    },
+    "footer": {
+      "service": "Dich vu",
+      "virtualOffices": "Van phong ao",
+      "privateOffices": "Van phong rieng",
+      "meetingRooms": "Phong hop",
+      "eventVenues": "Dia diem su kien",
+      "otherServices": "Dich vu khac",
+      "contactUs": "Lien he",
+      "contactToday": "Lien he voi chung toi ngay hom nay",
+      "hoursTitle": "Gio hoat dong",
+      "hoursWeekdays": "Thu Hai - Thu Sau | 8:00 - 18:00",
+      "hoursSaturday": "Thu Bay | 8:00 - 12:00",
+      "hoursClosed": "Nghi Chu Nhat va ngay le"
+    },
+    "location": {
+      "openingHours": "Gio mo cua",
+      "hotline": "Hotline",
+      "services": "Dich vu",
+      "choiceTitle": "Dieu gi khien",
+      "choiceTitleHighlight": "DIA DIEM NAY",
+      "choiceTitleSuffix": "la lua chon thong minh?",
+      "choiceText": "Khong gian chuyen nghiep voi 11 tang van phong rieng va van phong dich vu.",
+      "choiceItem1": "Trung tam nhung yen tinh",
+      "choiceItem2": "Toa nha day du dich vu",
+      "choiceItem3": "Chuyen nghiep va rieng tu",
+      "choiceItem4": "De dang tiep can",
+      "contactNow": "Lien he ngay",
+      "ourSpace": "Khong gian cua chung toi",
+      "strengthTitle": "Loi the",
+      "strengthLocationTitle": "Dia diem:",
+      "strengthLocationText": "Toa lac tai khu vuc trung tam, thuan tien giao thong va di chuyen den cac quan huyen. Khu vuc tap trung nhieu toa nha van phong va tien ich xung quanh.",
+      "strengthBuildingTitle": "Toa nha:",
+      "strengthBuildingText": "Khu vuc an ninh cao, camera giam sat, he thong bao chay, quan ly ra vao bang van tay, bai xe rong va gia canh tranh."
+    },
+    "services": {
+      "learnMore": "Xem chi tiet"
+    },
+    "notFound": {
+      "message": "Khong tim thay trang.",
+      "goHome": "Ve trang chu"
+    },
+    "account": {
+      "title": "Tai khoan"
+    }
+  },
+  "embed": {
+    "title": "Nhúng",
+    "description": "Đây là trang nhúng."
+  },
+  "serviceDetail": {
+    "labels": {
+      "idealFor": "Phu hop cho",
+      "minimumTerm": "Thoi han toi thieu"
+    },
+    "actions": {
+      "contactUs": "Lien he",
+      "getQuotation": "Nhan bao gia",
+      "exploreLocation": "Kham pha dia diem"
+    },
+    "benefits": {
+      "title": "Loi ich & Tien ich"
+    },
+    "pricing": {
+      "subTitle": "Amitie Office",
+      "title": "Bang gia Van phong ao"
+    },
+    "services": {
+      "1": {
+        "info": {
+          "title": "Van phong rieng",
+          "description": "Van phong rieng da trang bi day du tai vi tri trung tam, phu hop cho doi ngu can su rieng tu, linh hoat va ha tang san sang.",
+          "idealForLabel": "Phu hop cho",
+          "idealForValue": "Doanh nghiep nho,\ndoi nhom",
+          "minimumTermLabel": "Thoi han toi thieu",
+          "minimumTermValue": "6 thang",
+          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Le tan va xu ly thu tin" },
+          { "id": "b2", "icon": "logo", "label": "Hien thi bang ten cong ty" },
+          { "id": "b3", "icon": "registration", "label": "Dang ky dia chi doanh nghiep" },
+          { "id": "b4", "icon": "printing", "label": "Dich vu in an tai lieu" },
+          { "id": "b5", "icon": "meeting", "label": "Su dung phong hop" },
+          { "id": "b6", "icon": "coworking", "label": "The coworking theo ngay" }
+        ],
+        "location": {
+          "title": "Dia diem Van phong rieng",
+          "address": "100 Nguyen Thi Minh Khai, phuong Xuan Hoa, TP Ho Chi Minh",
+          "description": "Dat van phong tai trung tam thanh pho, di chuyen thuan tien, nang cao hinh anh thuong hieu va tiep can nhanh cac dich vu doanh nghiep.",
+          "image": "https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Starter",
+            "price": "8.000.000 VND/thang",
+            "features": [
+              "Van phong rieng toi da 4 nguoi",
+              "Le tan & xu ly thu tin",
+              "Phong hop: 4 gio"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Growth",
+            "price": "12.000.000 VND/thang",
+            "features": [
+              "Van phong rieng toi da 8 nguoi",
+              "Le tan & xu ly thu tin",
+              "Phong hop: 8 gio"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Scale",
+            "price": "18.000.000 VND/thang",
+            "features": [
+              "Van phong rieng toi da 12 nguoi",
+              "Bang ten cong ty",
+              "Phong hop: 12 gio"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Enterprise",
+            "price": "26.000.000 VND/thang",
+            "features": [
+              "Van phong rieng toi da 20 nguoi",
+              "Ho tro le tan rieng",
+              "Phong hop: 20 gio"
+            ]
+          }
+        ]
+      },
+      "2": {
+        "info": {
+          "title": "Khong gian Coworking",
+          "description": "Cho ngoi linh hoat cho freelancer, startup va doi nhom hybrid. Lam viec thoai mai voi internet toc do cao va cong dong nang dong.",
+          "idealForLabel": "Phu hop cho",
+          "idealForValue": "Freelancer,\nstartup",
+          "minimumTermLabel": "Thoi han toi thieu",
+          "minimumTermValue": "1 thang",
+          "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Le tan va xu ly thu tin" },
+          { "id": "b2", "icon": "logo", "label": "Hien thi logo" },
+          { "id": "b3", "icon": "registration", "label": "Ho tro dang ky doanh nghiep" },
+          { "id": "b4", "icon": "printing", "label": "Dich vu in an tai lieu" },
+          { "id": "b5", "icon": "meeting", "label": "Tang gio su dung phong hop" },
+          { "id": "b6", "icon": "coworking", "label": "Tang gio su dung coworking" }
+        ],
+        "location": {
+          "title": "Dia diem Coworking",
+          "address": "100 Nguyen Thi Minh Khai, phuong Xuan Hoa, TP Ho Chi Minh",
+          "description": "Lam viec tai khu vuc trung tam voi cong dong soi dong, de dang ket noi va su dung day du tien ich doanh nghiep.",
+          "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Hot Desk",
+            "price": "2.500.000 VND/thang",
+            "features": [
+              "Su dung cho ngoi linh hoat",
+              "Le tan & xu ly thu tin",
+              "Phong hop: 2 gio"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Dedicated",
+            "price": "3.800.000 VND/thang",
+            "features": [
+              "Cho ngoi co dinh",
+              "Le tan & xu ly thu tin",
+              "Phong hop: 4 gio"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Team",
+            "price": "6.200.000 VND/thang",
+            "features": [
+              "Cum cho ngoi cho nhom",
+              "Bang ten cong ty",
+              "Phong hop: 8 gio"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Unlimited",
+            "price": "8.500.000 VND/thang",
+            "features": [
+              "Su dung 24/7",
+              "Ho tro uu tien",
+              "Phong hop: 12 gio"
+            ]
+          }
+        ]
+      },
+      "3": {
+        "info": {
+          "title": "Khong gian Su kien",
+          "description": "To chuc workshop, ra mat san pham va su kien doanh nghiep trong khong gian hien dai, linh hoat bo tri va ho tro chuyen nghiep.",
+          "idealForLabel": "Phu hop cho",
+          "idealForValue": "Su kien doanh nghiep,\nworkshop",
+          "minimumTermLabel": "Thoi han toi thieu",
+          "minimumTermValue": "Theo khung dat cho",
+          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Le tan va check-in su kien" },
+          { "id": "b2", "icon": "logo", "label": "Ho tro hien thi thuong hieu" },
+          { "id": "b3", "icon": "registration", "label": "Ho tro thu tuc su kien" },
+          { "id": "b4", "icon": "printing", "label": "In an tai cho" },
+          { "id": "b5", "icon": "meeting", "label": "Bo tri phong hop linh hoat" },
+          { "id": "b6", "icon": "coworking", "label": "Khu networking" }
+        ],
+        "location": {
+          "title": "Dia diem To chuc su kien",
+          "address": "100 Nguyen Thi Minh Khai, phuong Xuan Hoa, TP Ho Chi Minh",
+          "description": "Dia diem trung tam giup khach tham du di chuyen de dang va nang tam hinh anh thuong hieu cho su kien cua ban.",
+          "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Half Day",
+            "price": "5.000.000 VND/buoi",
+            "features": [
+              "Khong gian toi da 40 khach",
+              "He thong am thanh co ban",
+              "Le tan don tiep"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Full Day",
+            "price": "8.500.000 VND/buoi",
+            "features": [
+              "Khong gian toi da 60 khach",
+              "He thong am thanh nang cao",
+              "Le tan & check-in"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Premium",
+            "price": "12.000.000 VND/buoi",
+            "features": [
+              "Khong gian toi da 80 khach",
+              "Bo tri theo yeu cau",
+              "Ho tro su kien chuyen biet"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Custom",
+            "price": "Lien he",
+            "features": [
+              "Quy mo lon linh hoat",
+              "Tuy chon dich vu theo nhu cau",
+              "Doi ngu planning rieng"
+            ]
+          }
+        ]
+      },
+      "4": {
+        "info": {
+          "title": "Van phong ao",
+          "description": "Giai phap toi uu chi phi, khong can cam ket dai han. Ban co dia chi dep, ho tro hanh chinh va su dung linh hoat cac tien ich van phong khi can.",
+          "idealForLabel": "Phu hop cho",
+          "idealForValue": "Cong ty moi,\nstartup",
+          "minimumTermLabel": "Thoi han toi thieu",
+          "minimumTermValue": "12 thang",
+          "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"
+        },
+        "benefits": [
+          { "id": "b1", "icon": "handling", "label": "Nhan va xu ly thu buu pham" },
+          { "id": "b2", "icon": "logo", "label": "Hien thi logo" },
+          { "id": "b3", "icon": "registration", "label": "Dang ky doanh nghiep" },
+          { "id": "b4", "icon": "printing", "label": "In an va tai lieu" },
+          { "id": "b5", "icon": "meeting", "label": "Tang gio phong hop" },
+          { "id": "b6", "icon": "coworking", "label": "Tang gio coworking" }
+        ],
+        "location": {
+          "title": "Dia diem Van phong ao",
+          "address": "100 Nguyen Thi Minh Khai, phuong Xuan Hoa, TP Ho Chi Minh",
+          "description": "Dia chi uy tin tai trung tam TP.HCM, phu hop cho doanh nghiep su dung van phong ao de tang do tin cay va ket noi khu vuc trong diem.",
+          "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
+        },
+        "pricing": [
+          {
+            "id": "p1",
+            "name": "Silver",
+            "price": "890.000 VND/thang",
+            "features": [
+              "Dia chi van phong & ho tro phap ly",
+              "Le tan & xu ly thu tin",
+              "Cho ngoi + phong hop gioi han"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Gold",
+            "price": "1.300.000 VND/thang",
+            "features": [
+              "Dia chi van phong & ho tro phap ly",
+              "Le tan & xu ly thu tin",
+              "Cho ngoi + phong hop gioi han"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Platinum",
+            "price": "1.500.000 VND/thang",
+            "features": [
+              "Dia chi van phong & ho tro phap ly",
+              "Le tan & xu ly thu tin",
+              "Bang ten cong ty",
+              "Cho ngoi + phong hop nhieu gio hon",
+              "In an, copy, scan"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Diamond",
+            "price": "1.500.000 VND/thang",
+            "features": [
+              "Dia chi van phong & ho tro phap ly",
+              "Le tan & xu ly thu tin",
+              "Bang ten cong ty",
+              "Cho ngoi + phong hop nhieu gio hon",
+              "In an, copy, scan"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
+

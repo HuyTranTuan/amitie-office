@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Amitie BUILDING - Nguyen Thi Minh Khai",
+    "desc": "Looking for a private office in Ho Chi Minh City that grows with your team?\nOur fully serviced offices offer a workspace with flexible lease terms, dedicated support, and access to shared amenities.",
+    "slug": "/locations/nguyen-thi-minh-khai",
+    "imgSrc": "/assets/home-location1.png",
+    "isCommingSoon": false,
+    "open": "Monday to Friday: 8:00 AM – 6:00 PM\nSaturday: 8:00 AM – 12:00 PM\nClosed on Sundays and public holidays.",
+    "hotline": "+84 28 3915 8833",
+    "services": "Traditional Offices, Serviced Offices, Virtual Offices, Meeting rooms",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1959.7792252817753!2d106.68481009167161!3d10.768473103219645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f22762451c9%3A0x6c1750fad6fdcbd4!2sParis%20Baguette%20Cao%20Th%E1%BA%AFng!5e0!3m2!1sen!2s!4v1774287237460!5m2!1sen!2s"
+  },
+  {
+    "id": 2,
+    "title": "Amitie Business Center - pasteur",
+    "desc": "A vibrant and strategic address (formerly District 3), ideal for teams looking for flexible, move-in ready office solutions in a collaborative business environment.",
+    "slug": "/locations/pasteur",
+    "imgSrc": "/assets/home-location2.png",
+    "isCommingSoon": false,
+    "open": "Monday to Friday: 8:00 AM – 6:00 PM\nSaturday: 8:00 AM – 12:00 PM\nClosed on Sundays and public holidays.",
+    "hotline": "+84 28 3915 8833",
+    "services": "Traditional Offices, Serviced Offices, Virtual Offices, Meeting rooms",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1959.679438947241!2d106.68968014419077!3d10.783801387985188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f31614a5e67%3A0x62d718ce598068c5!2sHCMC%20Justice%20Department!5e0!3m2!1sen!2s!4v1774287344326!5m2!1sen!2s"
+  },
+  {
+    "id": 3,
+    "title": "Amitie signature - phu my hung tower",
+    "desc": "W Signature offers premium private suites and executive-level amenities designed for leaders and growing teams.\nWith fully furnished offices, hospitality-inspired service, and seamless move-in options, this flagship location sets a new benchmark for modern workspaces in Ho Chi Minh City.",
+    "slug": "/locations/phu-my-hung",
+    "imgSrc": "/assets/home-location3.png",
+    "isCommingSoon": true,
+    "open": "Comming soon",
+    "hotline": "Comming soon",
+    "services": "Comming soon",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1648.2522688373826!2d106.73014875284396!3d10.716993927479349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175255c72b1eb0f%3A0xd0d9f326eeccb308!2zQ8O0bmcgdmnDqm4gQ-G6o25oIHZpw6pu!5e0!3m2!1sen!2s!4v1774287434948!5m2!1sen!2s"
+  }
+]

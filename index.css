@@ -1,0 +1,24 @@
+:root{
+    --primary-color: #f0631d;
+    --secondary-color: #171517;
+    --text-color: #404040;
+    --white-color: #fff;
+    --black-color: #000;
+    --gray-color: #f5f5f5;
+    --darkgray-color: #797979;
+    --title: 22px;
+    --subtile: 20px;
+    --large-text: 18px;
+    --normal-text: 16px;
+    --container: 1140px;
+}
+*{
+    font-family: Prompt, sans-serif !important;
+    box-sizing: border-box;
+}
+
+.content-container{
+    overflow: hidden;
+    max-width: var(--container);
+    margin: auto;
+}

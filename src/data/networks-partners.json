@@ -1,0 +1,16 @@
+{
+  "networks": [
+    "/assets/networks/anhcoffee.png",
+    "/assets/networks/ats.png",
+    "/assets/networks/cenoplanvietnam.png",
+    "/assets/networks/naivietnam.png"
+  ],
+  "partners": [
+    "/assets/partners/eurocham.png",
+    "/assets/partners/isca.png",
+    "/assets/partners/makeyourasia.png",
+    "/assets/partners/rba.png",
+    "/assets/partners/tgmresearch.png",
+    "/assets/partners/vibblue.png"
+  ]
+}

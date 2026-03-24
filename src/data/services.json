@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Private Offices",
+    "desc": "Best for 6-55 People\nFully-furnished offices in all sizes. A cost- effective way of renting commercial space.",
+    "path": "/services/private-offices",
+    "imgSrc": "/assets/homeservices1.png",
+    "svg": "/assets/private-offices.png"
+  },
+  {
+    "id": "2",
+    "title": "Coworking SpaceS​",
+    "desc": "Workspaces for digital nomads, solo- entrepreneurs, start-up teams or students",
+    "path": "/services/coworking-spaces",
+    "imgSrc": "/assets/homeservices2.png",
+    "svg": "/assets/coworking-spaces.png"
+  },
+  {
+    "id": "3",
+    "title": "Event Venue",
+    "desc": "Host workshops, seminars, or corporate gatherings..",
+    "path": "/services/event-venue",
+    "imgSrc": "/assets/homeservices3.png",
+    "svg": "/assets/event-venue.png"
+  },
+  {
+    "id": "4",
+    "title": "Virtual Offices",
+    "desc": "Register Business Address\nPrime location with mail handling and access to meeting rooms when needed.",
+    "path": "/services/virtual-offices",
+    "imgSrc": "/assets/homeservices4.png",
+    "svg": "/assets/virtual-offices.png"
+  }
+]

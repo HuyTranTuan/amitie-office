@@ -1,0 +1,42 @@
+.quotation-wrapper{
+    background-color: var(--primary-color);
+
+    & .quotation-container{
+        padding: 40px 0;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        color: var(--white-color);
+        text-align: center;
+
+        & .quota-title{
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        & .quota-text{
+            font-size: var(--normal-text);
+            line-height: 1.6;
+        }
+
+        & .quota-btn{
+            font-size: var(--normal-text);
+            color: var(--white-color);
+            background-color: var(--black-color);
+            text-decoration: none;
+            cursor: pointer;
+            display: inline-block;
+            padding: 12px 24px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            width: fit-content;
+            margin: auto;
+
+            &:hover{
+                color: var(--primary-color);
+            }
+        }
+    }
+}

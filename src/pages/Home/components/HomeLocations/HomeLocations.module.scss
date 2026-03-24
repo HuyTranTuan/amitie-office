@@ -1,0 +1,124 @@
+.wrapper{
+    width: 100%;
+    background-color: var(--white-color);
+
+    & .container{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 40px 0;
+        margin: auto;
+    }
+
+    & .heading{
+        font-weight: bold;
+        font-size: 32px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    & .card-container{
+        width: 100%;
+        display: flex;
+        gap: 24px;
+        margin-bottom: 40px;
+
+        @media (max-width: 1140px) {
+            padding: 20px;
+        }
+        @media (max-width: 768px) {
+            flex-direction: column;
+            padding: 20px;
+        }
+    }
+
+    & .img-container{
+        width: 490px;
+        height: 320px;
+        aspect-ratio: 1.5;
+        position: relative;
+        
+        & img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+
+        & .commingsoon{
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px;
+            text-decoration: none;
+            background-color: var(--black-color);
+            color: var(--primary-color);
+            border-radius: 4px;
+
+            & svg{
+                width: 10px;
+                height: 10px;
+                fill: var(--primary-color);
+            }
+
+            &:hover {
+                color: var(--white-color);
+
+                & svg{
+                    fill: white;
+                }
+            }
+        }
+
+        @media (max-width: 768px) {
+            width: 100%;
+            aspect-ratio: 1.5;
+        }
+    }
+
+    & .paragraph-container{
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        flex-grow: 1;
+
+        @media (max-width: 1140px) {
+            width: 100%;
+        }
+
+        & .paragraph{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+
+            & .title{
+                color: black;
+                font-size: 24px;
+                text-transform: uppercase;
+                font-weight: bold;
+            }
+
+            & .text{
+                font-size: var(--normal-text);
+                color: var(--text-color);
+                line-height: 1.6;
+            }
+
+            & .button{
+                padding: 12px 24px;
+                background-color: var(--primary-color);
+                border-radius: 4px;
+                color: var(--white-color);
+                text-transform: uppercase;
+                display: inline-block;
+                width: fit-content;
+                text-decoration: none;
+                transition: background-color 0.2s ease-in;
+
+                &:hover{
+                    background-color: var(--black-color);
+                }
+            }
+        }
+    }
+
+}

@@ -1,0 +1,1 @@
+import{T as e,u as t,x as n}from"./index-DACtwcFi.js";var r=e(n());function i(){let{t:e}=t();return(0,r.jsx)(r.Fragment,{children:e(`common.account.title`)})}var a=i;export{a as default};

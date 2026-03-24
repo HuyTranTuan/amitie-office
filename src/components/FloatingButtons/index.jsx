@@ -4,8 +4,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 import styles from "./FloatingButtons.module.scss";
-import enFlag from "@/assets/en.png";
-import vnFlag from "@/assets/vn.png";
 
 function FloatingButtons() {
   const { i18n } = useTranslation();
@@ -17,12 +15,15 @@ function FloatingButtons() {
     <div className={styles.floatingContainer}>
       {/* Nút Đổi Ngôn Ngữ EN */}
       <button className={styles.btn} onClick={() => changeLanguage("en")}>
-        <img src={enFlag} alt="English" />
+        <img src={`${import.meta.env.BASE_URL}/assets/en.png`} alt="English" />
       </button>
 
       {/* Nút Đổi Ngôn Ngữ VN */}
       <button className={styles.btn} onClick={() => changeLanguage("vn")}>
-        <img src={vnFlag} alt="Tiếng Việt" />
+        <img
+          src={`${import.meta.env.BASE_URL}/assets/vn.png`}
+          alt="Tiếng Việt"
+        />
       </button>
 
       {/* Nút Gọi Điện */}
